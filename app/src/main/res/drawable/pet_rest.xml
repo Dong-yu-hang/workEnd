@@ -1,0 +1,75 @@
+<!-- 桌宠：休息中 —— 打瞌睡的小猫（闭眼 + 小圆嘴 + Zzz） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 耳朵 -->
+    <path
+        android:fillColor="#FFE3C9"
+        android:pathData="M30,40 L21,13 L49,25 Z"
+        android:strokeColor="#46342A"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3" />
+    <path
+        android:fillColor="#FFE3C9"
+        android:pathData="M78,40 L87,13 L59,25 Z"
+        android:strokeColor="#46342A"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3" />
+    <path
+        android:fillColor="#F8BBD0"
+        android:pathData="M32,32 L28,20 L41,26 Z" />
+    <path
+        android:fillColor="#F8BBD0"
+        android:pathData="M76,32 L80,20 L67,26 Z" />
+
+    <!-- 头 -->
+    <path
+        android:fillColor="#FFE3C9"
+        android:pathData="M20,58 a34,34 0 1,0 68,0 a34,34 0 1,0 -68,0"
+        android:strokeColor="#46342A"
+        android:strokeWidth="3" />
+
+    <!-- 腮红 -->
+    <path
+        android:fillColor="#99F8BBD0"
+        android:pathData="M27.5,64 a4.5,3 0 1,0 9,0 a4.5,3 0 1,0 -9,0" />
+    <path
+        android:fillColor="#99F8BBD0"
+        android:pathData="M71.5,64 a4.5,3 0 1,0 9,0 a4.5,3 0 1,0 -9,0" />
+
+    <!-- 睡着的闭眼 -->
+    <path
+        android:pathData="M35,54 q7,7 14,0 M59,54 q7,7 14,0"
+        android:strokeColor="#46342A"
+        android:strokeLineCap="round"
+        android:strokeWidth="3.5" />
+
+    <!-- 小圆嘴 -->
+    <path
+        android:fillColor="#46342A"
+        android:pathData="M51.5,68 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- 胡须 -->
+    <path
+        android:pathData="M13,56 h9 M15,64 h8 M86,56 h9 M85,64 h8"
+        android:strokeColor="#46342A"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+    <!-- Zzz -->
+    <path
+        android:pathData="M89,21 h9 l-9,9 h9"
+        android:strokeColor="#9FA8DA"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2.5" />
+    <path
+        android:pathData="M99,9 h6.5 l-6.5,6.5 h6.5"
+        android:strokeColor="#9FA8DA"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2" />
+</vector>
