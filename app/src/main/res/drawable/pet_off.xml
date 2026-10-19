@@ -1,0 +1,75 @@
+<!-- 桌宠：已下班 —— 开心庆祝的小猫（笑眼 + 张嘴大笑 + 星星） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 耳朵 -->
+    <path
+        android:fillColor="#FFE3C9"
+        android:pathData="M30,40 L21,13 L49,25 Z"
+        android:strokeColor="#46342A"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3" />
+    <path
+        android:fillColor="#FFE3C9"
+        android:pathData="M78,40 L87,13 L59,25 Z"
+        android:strokeColor="#46342A"
+        android:strokeLineJoin="round"
+        android:strokeWidth="3" />
+    <path
+        android:fillColor="#F8BBD0"
+        android:pathData="M32,32 L28,20 L41,26 Z" />
+    <path
+        android:fillColor="#F8BBD0"
+        android:pathData="M76,32 L80,20 L67,26 Z" />
+
+    <!-- 头 -->
+    <path
+        android:fillColor="#FFE3C9"
+        android:pathData="M20,58 a34,34 0 1,0 68,0 a34,34 0 1,0 -68,0"
+        android:strokeColor="#46342A"
+        android:strokeWidth="3" />
+
+    <!-- 腮红 -->
+    <path
+        android:fillColor="#99F8BBD0"
+        android:pathData="M27.5,64 a4.5,3 0 1,0 9,0 a4.5,3 0 1,0 -9,0" />
+    <path
+        android:fillColor="#99F8BBD0"
+        android:pathData="M71.5,64 a4.5,3 0 1,0 9,0 a4.5,3 0 1,0 -9,0" />
+
+    <!-- 笑弯的眼睛（^ ^） -->
+    <path
+        android:pathData="M35,55 q7,-9 14,0 M59,55 q7,-9 14,0"
+        android:strokeColor="#46342A"
+        android:strokeLineCap="round"
+        android:strokeWidth="3.5" />
+
+    <!-- 张嘴大笑 + 舌头 -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M43,63 a11,9 0 0,0 22,0 z" />
+    <path
+        android:fillColor="#F48FB1"
+        android:pathData="M48,66 a6,4.5 0 0,0 12,0 z" />
+
+    <!-- 胡须 -->
+    <path
+        android:pathData="M13,56 h9 M15,64 h8 M86,56 h9 M85,64 h8"
+        android:strokeColor="#46342A"
+        android:strokeLineCap="round"
+        android:strokeWidth="2" />
+
+    <!-- 庆祝星星 -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M12,8 l2.2,5.8 5.8,2.2 -5.8,2.2 -2.2,5.8 -2.2,-5.8 -5.8,-2.2 5.8,-2.2 z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M94,16 l2.2,5.8 5.8,2.2 -5.8,2.2 -2.2,5.8 -2.2,-5.8 -5.8,-2.2 5.8,-2.2 z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M99,42 l1.6,4.2 4.2,1.6 -4.2,1.6 -1.6,4.2 -1.6,-4.2 -4.2,-1.6 4.2,-1.6 z" />
+</vector>
